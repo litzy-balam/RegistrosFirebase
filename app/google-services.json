@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "809181175928",
+    "firebase_url": "https://registrosfirebase.firebaseio.com",
+    "project_id": "registrosfirebase",
+    "storage_bucket": "registrosfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809181175928:android:1da7e0414cbbe5a1",
+        "android_client_info": {
+          "package_name": "com.example.registrosfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809181175928-c1g4d0s0f9nq7t47d6o877egvqs8r7nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDivjd3_OxESlp219xXyfqjy2zvGVnvzXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809181175928-c1g4d0s0f9nq7t47d6o877egvqs8r7nh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
