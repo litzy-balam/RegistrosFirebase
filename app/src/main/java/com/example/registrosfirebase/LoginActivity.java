@@ -30,6 +30,7 @@ public class LoginActivity extends AppCompatActivity {
         //get firebase auth instance
         auth=FirebaseAuth.getInstance();
 
+
         /*if(auth.getCurrentUser()!=null){
             startActivity(new Intent(LoginActivity.this,MainActivity.class));
             finish();
@@ -39,8 +40,8 @@ public class LoginActivity extends AppCompatActivity {
         setContentView(R.layout.activity_login);
 
             //marca error porque no tenemos un toolbar ,y tampoco la usamos asi que como no es necesario la quite
-      //  Toolbar toolbar=(Toolbar)findViewById(R.id.toollbar);
-        //setSupportActionBar(toolbar)
+        //Toolbar toolbar=(Toolbar)findViewById(R.id.toollbar);
+        //setSupportActionBar(toolbar);
 
 
         btnSignUp=(Button)findViewById(R.id.btn_signup);
